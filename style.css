@@ -3,7 +3,7 @@
     margin: 0;
 }
 .main{
-    background-image: url(/images_netflix/netflix_main.jpg);
+    background-image: url(images_netflix/netflix_main.jpg);
     height: 90vh;
     position: relative;
     
